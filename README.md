@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaali2002&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaali2002" /> </p>
 
-<img align="center" src="https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-ovmwuk5y3uzvblmccxrq3c3qzzvodph9skmt3g579c.png" height="300" width="300" style="margin-left:200px;"/>
+<img align="center" src="https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-ovmwuk5y3uzvblmccxrq3c3qzzvodph9skmt3g579c.png" height="300" width="300" style="margin-right:200px;"/>
 
 
 - 🔭 I’m currently working on **Drive Wise**
